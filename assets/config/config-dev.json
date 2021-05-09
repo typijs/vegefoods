@@ -1,3 +1,3 @@
 {
-    "baseApiUrl": "https://typijs.azurewebsites.net/api"
+    "baseApiUrl": "http://api-demo.typijs.com/api"
 }
