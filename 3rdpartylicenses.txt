@@ -149,10 +149,13 @@ MIT
 MIT
 
 @typijs/core
+MIT
 
 @typijs/modules
+MIT
 
 @typijs/portal
+MIT
 
 angular-split
 Apache-2.0
